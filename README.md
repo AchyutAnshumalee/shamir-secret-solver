@@ -7,4 +7,5 @@ This Java program reads test cases in JSON format and uses **Lagrange interpolat
 ## 🔢 Output
 
 Secret (constant term) for testcase 1: 3
+
 Secret (constant term) for testcase 2: 79836264049851
